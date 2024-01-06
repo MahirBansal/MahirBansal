@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic student with a d
 
 ### 🚀 Expertise
 
-- Programming Languages: C++, DSA, Web Developement
+- Programming Languages: C++, JavaScript
 - Web Development: MERN Stack
 - Soft Skills: Excellent communication, collaboration, and public speaking
 
